@@ -1,4 +1,4 @@
 module gd {
-	/usr/local/include
+	umbrella header "/usr/local/include/gd.h"
 	link "gd"
 }
